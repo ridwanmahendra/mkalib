@@ -1,8 +1,8 @@
 {
   "name": "mkalib",
   "displayName": "mkalib",
-  "description": "mkalib",
-  "version": "0.0.1",
+  "description": "Library Kecerdasan Buatan",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -19,10 +19,20 @@
       },
       {
         "command": "mkalib.logisticRegression",
-        "title": "Logistic Regression"
+        "title": "mkalib: Logistic Regression"
       },
-      {"command": "mkalib.linearRegression",
-      "title": "Linear Regression"}
+      {
+        "command": "mkalib.linearRegression",
+        "title": "mkalib: Linear Regression"
+      },
+      {
+        "command": "mkalib.createFile",
+        "title": "mkalib: New File"
+      },
+      {
+        "command": "mkalib.createNotebook",
+        "title": "mkalib: New Notebook"
+      }
     ]
   },
   "scripts": {
