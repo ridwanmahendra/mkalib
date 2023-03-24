@@ -1,22 +1,39 @@
-# mkalib README
+# Master Kecerdasan Artifisial for Machine Learning and Deep Learning Extension
 
-This is the README for your extension "mkalib". After writing up a brief description, we recommend including the following sections.
+This is a Visual Studio Code extension designed to simplify machine learning and deep learning workflows. It currently offers two basic features: creating a new file and creating a new notebook.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+* New File: Allows you to quickly create a new file with a default name and extension.
+* New Notebook: Allows you to quickly create a new Jupyter notebook with a default name and the .ipynb extension.
 
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+> Overview: Under Development.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+* Visual Studio Code version `1.60.0` or `higher`.
+* Jupyter extension for Visual Studio Code, if you want to use the new notebook feature.
 
-## Extension Settings
+## Installation
+
+You can install this extension through the Visual Studio Code Marketplace. Simply search for `MKA Extension` and click `install`. Alternatively, you can download the .vsix file from the Marketplace and install it manually by selecting `Install from VSIX` in the Extensions view in Visual Studio Code.
+
+
+
+## Usage
+To use the extension, simply open the Command Palette in Visual Studio Code (View > Command Palette) and type `mkalib: New File` or `mkalib: New Notebook`. Select the appropriate option and the extension will create a new file or notebook with a default name and extension.
+
+## Release Note
+### Version 0.1.0
+Initial release of the extension with two basic features: creating a new file and creating a new notebook.
+
+## Known Issues
+No known issues at this time.
+
+## Contributions
+Contributions are welcome! If you would like to contribute to this extension, please create a pull request on GitHub.
+
+<!-- ## Extension Settings
 
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
@@ -62,4 +79,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->
