@@ -1,10 +1,16 @@
 {
+  "publisher": "RidwanMahenra",
   "name": "mkalib",
   "displayName": "mkalib",
   "description": "Library Kecerdasan Buatan",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "icon": "assets/logo/light/light.png",
   "engines": {
     "vscode": "^1.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ridwanmahendra/mkalib.git"
   },
   "categories": [
     "Other"
