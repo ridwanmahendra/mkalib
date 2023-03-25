@@ -16,7 +16,7 @@ This is a Visual Studio Code extension designed to simplify machine learning and
 
 ## Installation
 
-You can install this extension through the Visual Studio Code Marketplace. Simply search for `MKA Extension` and click `install`. Alternatively, you can download the .vsix file from the Marketplace and install it manually by selecting `Install from VSIX` in the Extensions view in Visual Studio Code.
+You can install this extension through the Visual Studio Code Marketplace. Simply search for `mkalib` and click `install`. Alternatively, you can download the .vsix file from the Marketplace and install it manually by selecting `Install from VSIX` in the Extensions view in Visual Studio Code.
 
 
 
@@ -26,6 +26,10 @@ To use the extension, simply open the Command Palette in Visual Studio Code (Vie
 ## Release Note
 ### Version 0.1.0
 Initial release of the extension with two basic features: creating a new file and creating a new notebook.
+
+### Version 0.1.3
+* Added Logistic Regression From Scratch `mkalib: Create Logistic Regression`
+* Added Logistic Regression With Sklearn `mkalib: Create Logistic Regression`
 
 ## Known Issues
 No known issues at this time.
