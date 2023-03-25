@@ -3,7 +3,7 @@
   "name": "mkalib",
   "displayName": "mkalib",
   "description": "Library Kecerdasan Buatan",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "icon": "assets/logo/light/light.png",
   "engines": {
     "vscode": "^1.76.0"
@@ -25,7 +25,7 @@
       },
       {
         "command": "mkalib.logisticRegression",
-        "title": "mkalib: Logistic Regression"
+        "title": "mkalib: Create Logistic Regression"
       },
       {
         "command": "mkalib.linearRegression",
